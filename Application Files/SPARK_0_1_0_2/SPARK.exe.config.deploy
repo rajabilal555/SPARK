@@ -10,7 +10,7 @@
   </startup>
   <userSettings>
     <Artificial_Intelligence.Properties.Settings>
-      <setting name="Location" serializeAs="String">
+      <setting name="Users_Location" serializeAs="String">
         <value>Karachi, Pakistan</value>
       </setting>
       <setting name="Temp_Unit_F" serializeAs="String">
